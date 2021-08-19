@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 875f01413195e5145b7a128288db93d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7823606982719776882
+    second: pixlr-bg-result-removebg-preview_0
+  - first:
+      213: 7379696901739948405
+    second: pixlr-bg-result-removebg-preview_1
+  - first:
+      213: -2654726837166387890
+    second: pixlr-bg-result-removebg-preview_2
+  - first:
+      213: 699244890493161946
+    second: pixlr-bg-result-removebg-preview_3
+  - first:
+      213: -7290943656633913796
+    second: pixlr-bg-result-removebg-preview_4
+  - first:
+      213: -7562730112633565595
+    second: pixlr-bg-result-removebg-preview_5
+  - first:
+      213: 8133044162101171692
+    second: pixlr-bg-result-removebg-preview_7
+  - first:
+      213: 6835240296358324006
+    second: pixlr-bg-result-removebg-preview_8
+  - first:
+      213: 3219067087830302491
+    second: pixlr-bg-result-removebg-preview_9
+  - first:
+      213: -5937028301148941060
+    second: pixlr-bg-result-removebg-preview_10
+  - first:
+      213: -6321740636931843612
+    second: pixlr-bg-result-removebg-preview_11
+  - first:
+      213: 5191318572843929015
+    second: pixlr-bg-result-removebg-preview_12
+  - first:
+      213: -2149053570486290830
+    second: pixlr-bg-result-removebg-preview_13
+  - first:
+      213: 9208565364918400633
+    second: pixlr-bg-result-removebg-preview_14
+  - first:
+      213: 3608431643811722724
+    second: pixlr-bg-result-removebg-preview_15
+  - first:
+      213: 5070482025964578945
+    second: pixlr-bg-result-removebg-preview_16
+  - first:
+      213: -427865465528855161
+    second: pixlr-bg-result-removebg-preview_17
+  - first:
+      213: 7478082100378716323
+    second: pixlr-bg-result-removebg-preview_18
+  - first:
+      213: -6322422335390676891
+    second: pixlr-bg-result-removebg-preview_19
+  - first:
+      213: 5533695608577287718
+    second: pixlr-bg-result-removebg-preview_20
+  - first:
+      213: 8163901686124944020
+    second: pixlr-bg-result-removebg-preview_21
+  - first:
+      213: 5454698094057935619
+    second: pixlr-bg-result-removebg-preview_22
+  - first:
+      213: 3899889323559975559
+    second: pixlr-bg-result-removebg-preview_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 347
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278274b7919039c60800000000000000
+      internalID: 7823606982719776882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 347
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a24a9b33f96660800000000000000
+      internalID: 7379696901739948405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 347
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d4007c104882bd0800000000000000
+      internalID: -2654726837166387890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 347
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11adce58734b900800000000000000
+      internalID: 699244890493161946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 347
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea2f49f5d51da90800000000000000
+      internalID: -7290943656633913796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 348
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e83581809cb0790800000000000000
+      internalID: -7562730112633565595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 248
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5da9023906ed070800000000000000
+      internalID: 8133044162101171692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 255
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627afdab5d6abde50800000000000000
+      internalID: 6835240296358324006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 252
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb646067c6cac20800000000000000
+      internalID: 3219067087830302491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 250
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4939047307b9da0800000000000000
+      internalID: -5937028301148941060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 254
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9968d726aa448a0800000000000000
+      internalID: -6321740636931843612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 248
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd004abcb44b0840800000000000000
+      internalID: 5191318572843929015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27631efe9270d22e0800000000000000
+      internalID: -2149053570486290830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 148
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763dea09656bcf70800000000000000
+      internalID: 9208565364918400633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 148
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53da53679b31230800000000000000
+      internalID: 3608431643811722724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 167
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882f9db988fd5640800000000000000
+      internalID: 5070482025964578945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 149
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785de7340aaef0af0800000000000000
+      internalID: -427865465528855161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 149
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c74abc0c77c760800000000000000
+      internalID: 7478082100378716323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5680b03326e3248a0800000000000000
+      internalID: -6322422335390676891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 51
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626636456d2abcc40800000000000000
+      internalID: 5533695608577287718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a90be44510c4170800000000000000
+      internalID: 8163901686124944020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 93
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d25d240bf2bb40800000000000000
+      internalID: 5454698094057935619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixlr-bg-result-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 38
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a71226da03f1630800000000000000
+      internalID: 3899889323559975559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
